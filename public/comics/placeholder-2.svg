@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 533" fill="none">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1E3A8A"/>
+      <stop offset="100%" style="stop-color:#7C3AED"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="533" fill="url(#bg2)"/>
+  <!-- Stars -->
+  <circle cx="50" cy="80" r="2" fill="white"/>
+  <circle cx="120" cy="40" r="3" fill="white"/>
+  <circle cx="300" cy="60" r="2" fill="white"/>
+  <circle cx="350" cy="120" r="2" fill="white"/>
+  <circle cx="80" cy="160" r="1" fill="white"/>
+  <circle cx="320" cy="180" r="3" fill="white"/>
+  <circle cx="380" cy="250" r="2" fill="white"/>
+  <circle cx="30" cy="300" r="2" fill="white"/>
+  <!-- Rocket -->
+  <text x="200" y="220" text-anchor="middle" font-size="80" fill="white">🚀</text>
+  <rect x="40" y="340" width="320" height="60" rx="10" fill="white" opacity="0.2"/>
+  <text x="200" y="380" text-anchor="middle" font-size="20" font-family="system-ui" fill="white" font-weight="bold">SPACE EXPLORERS</text>
+  <rect x="80" y="420" width="240" height="40" rx="8" fill="white" opacity="0.15"/>
+  <text x="200" y="447" text-anchor="middle" font-size="14" font-family="system-ui" fill="white" opacity="0.9">Mission: Galaxy Quest</text>
+  <text x="200" y="510" text-anchor="middle" font-size="12" font-family="system-ui" fill="white" opacity="0.6">by Carys</text>
+</svg>
